@@ -1,19 +1,22 @@
 {
-  "alunos": [
+  "jogos": [
     {
       "id": 1,
-      "nome": "Julinha",
-      "curso": "Frontend"
+      "nome": "Dark Souls",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preço": 300
     },
     {
       "id": 2,
-      "nome": "Vegas",
-      "curso": "Frontend / Infra"
+      "nome": "Far Cry 8",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Far-Cry-4.png",
+      "preço": 200
     },
     {
-      "id": 3,
-      "nome": "Inacio",
-      "curso": "Frontend"
+      "nome": "The legend of Zelda",
+      "img": "https://codetheworld.io/wp-content/uploads/2023/12/Dark-Souls.png",
+      "preco": 100,
+      "id": 3
     }
   ]
 }
